@@ -53,9 +53,3 @@ Addict in solving technical problems.
 - English (professional)  
 
 ---
-
-## Interests
-- Crime and espionage cinema, British series  
-- Sports  
-- Free‑market economics  
-- Southeast Asia  
