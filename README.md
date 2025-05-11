@@ -2,9 +2,7 @@
 
 Self‑taught computer enthusiast pivoting to cybersecurity.  
 
-Curious and persistent, I enjoy analyzing and solving complex technical problems.  
-
-I am seeking professional experience in information security to contribute to a company while sharpening my skills and preparing targeted professional certifications.
+Addict in solving technical problems.  
 
 ---
 
