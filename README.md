@@ -1,4 +1,4 @@
-# Aspiring Cybersecurity Professional
+# Junior Cybersecurity Analyst
 
 Self‑taught computer enthusiast pivoting to cybersecurity.  
 
