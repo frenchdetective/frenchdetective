@@ -29,7 +29,7 @@ Addict in solving technical problems.
 * Full‑disk and container encryption
   *(VeraCrypt, LUKS)*
 
-* Secure credential vault (password + challenge‑response via YubiKey)
+* Secure credential vault (password + challenge‑response)
   *(KeePass, YubiKey)*
 
 * Two‑factor authentication (TOTP) for online services
