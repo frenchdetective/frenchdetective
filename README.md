@@ -1,55 +1,71 @@
 # Junior Cybersecurity Analyst
 
-Self‑taught computer enthusiast pivoting to cybersecurity.  
-
-Addict in solving technical problems.  
+Self‑taught computer enthusiast pivoting to cybersecurity.
+Addict in solving technical problems.
 
 ---
 
 ## Education & Certifications
-- **CompTIA Security+** (in progress)  
-- **CS50’s Introduction to Programming with Python** – Harvard/edX  
+
+* **CompTIA Security+** (in progress)
+* **CS50’s Introduction to Programming with Python** – Harvard/edX
 
 ---
 
 ## Hands‑On Projects
-### VPS Administration 
-- Hosting websites and self‑hosted services *(Ubuntu/Debian, Nginx, SSL, SFTP, SSH, Nextcloud, Matrix, seedbox)*  
 
-### Pentesting 
-- WEP key cracking, WPA2 handshake capture, dictionary brute‑force, network analysis  
-  *(Aircrack‑ng, Hashcat, Wireshark)*  
+### VPS Administration
 
-### Android Smartphone Flashing 
-- Installing custom ROMs, unlocking bootloader, flashing recovery, and performing data backup/restore  
-  *(LineageOS, GrapheneOS, TWRP, Platform‑tools)*  
+* Hosting websites and self‑hosted services *(Ubuntu/Debian, Nginx, SSL, SFTP, SSH, Nextcloud, Matrix, seedbox)*
 
-### Crypto Arbitrage 
-- Delta‑neutral funding‑rate arbitrage with real‑time monitoring and trade execution via an API  
-  *(REST, WebSocket, Python, CCXT)*  
+### Pentesting
 
-### Automated Discord 
-- Built an automatic bump bot for Discord directories that posts categorized images per channel with embedded advertising messages.  
+* WEP key cracking, WPA2 handshake capture, dictionary brute‑force, network analysis
+  *(Aircrack‑ng, Hashcat, Wireshark)*
 
-### Image Scraping 
-- Automated image collection by keyword from Artstation.com to build a dataset of thousands of files and caption generation to train an AI model in the style of **Hearthstone**  
-  *(Python, Selenium, OpenAI API, kohya‑ss)*  
+### Encryption & Secure Password Management
 
-### Independent 2D Video Game 
-- Collaborated with a **C++** developer: created graphic assets, 2D animation, sound design, and marketing strategy  
-  *(Stable Diffusion, Photoshop, After Effects)*  
+* Full‑disk and container encryption
+  *(VeraCrypt, LUKS)*
+
+* Secure credential vault (password + challenge‑response via YubiKey)
+  *(KeePass, YubiKey)*
+
+### Android Smartphone Flashing
+
+* Installing custom ROMs, unlocking bootloader, flashing recovery, and performing data backup/restore
+  *(LineageOS, GrapheneOS, TWRP, Platform‑tools)*
+
+### Crypto Arbitrage
+
+* Delta‑neutral funding‑rate arbitrage with real‑time monitoring and trade execution via an API
+  *(REST, WebSocket, Python, CCXT)*
+
+### Automated Discord
+
+* Built an automatic bump bot for Discord directories that posts categorized images per channel with embedded advertising messages.
+
+### Image Scraping
+
+* Automated image collection by keyword from Artstation.com to build a dataset of thousands of files and caption generation to train an AI model in the style of **Hearthstone**
+  *(Python, Selenium, OpenAI API, kohya‑ss)*
+
+### Independent 2D Video Game
+
+* Collaborated with a **C++** developer: created graphic assets, 2D animation, sound design, and marketing strategy
+  *(Stable Diffusion, Photoshop, After Effects)*
 
 ---
 
 ## Professional Experience
-- **Computer Repair:** Hardware repair, data recovery, maintenance, customer interaction, and tutoring  
-- **IT Manager Intern** (community of municipalities)  
-- **Temporary Worker**  
+
+* **Computer Repair:** Hardware repair, data recovery, maintenance, customer interaction, and tutoring
+* **IT Manager Intern** (community of municipalities)
+* **Temporary Worker**
 
 ---
 
 ## Languages
-- French (native)  
-- English (B2)  
 
----
+* French (native)
+* English (B2)
