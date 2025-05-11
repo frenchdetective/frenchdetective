@@ -1,6 +1,7 @@
 # Junior Cybersecurity Analyst
 
 Self‑taught computer enthusiast pivoting to cybersecurity.
+
 Addict in solving technical problems.
 
 ---
