@@ -50,6 +50,6 @@ Addict in solving technical problems.
 
 ## Languages
 - French (native)  
-- English (professional)  
+- English (B2)  
 
 ---
