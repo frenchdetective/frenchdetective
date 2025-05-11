@@ -7,7 +7,8 @@ Addict in solving technical problems.
 
 ## Education & Certifications
 
-* **CompTIA Security+** (in progress)
+* **Google Cybersecurity Professional Certificate** (in progress)
+* **Introduction to Cybersecurity** – Cisco Networking Academy
 * **CS50’s Introduction to Programming with Python** – Harvard/edX
 
 ---
@@ -30,6 +31,9 @@ Addict in solving technical problems.
 
 * Secure credential vault (password + challenge‑response via YubiKey)
   *(KeePass, YubiKey)*
+
+* Two‑factor authentication (TOTP) for online services
+  *(YubiKey, Authenticator apps)*
 
 ### Android Smartphone Flashing
 
