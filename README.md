@@ -1,7 +1,6 @@
 # Junior Cybersecurity Analyst
 
 Self‑taught computer enthusiast pivoting to cybersecurity.
-
 Addict in solving technical problems.
 
 ---
@@ -34,7 +33,6 @@ Addict in solving technical problems.
   *(KeePass, YubiKey)*
 
 * Two‑factor authentication (TOTP) for online services
-  *(YubiKey, Authenticator apps)*
 
 ### Android Smartphone Flashing
 
