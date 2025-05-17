@@ -8,7 +8,7 @@ Addict in solving technical problems.
 
 ## Education & Certifications
 
-* **Google Cybersecurity Professional Certificate** (in progress)
+* **SOC Level 1** - TryHackMe
 * **Introduction to Cybersecurity** – Cisco Networking Academy
 * **CS50’s Introduction to Programming with Python** – Harvard/edX
 
