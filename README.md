@@ -1,60 +1,39 @@
-# Junior SOC Analyst
-Addict in solving technical problems.
+# Cybersecurity Analyst
+I have been passionate about computing since childhood and have recently transitioned into cybersecurity with a focus on Blue Team operations. 
+Every day, I deepen my expertise in defensive strategies and the role of a SOC analyst through targeted training and hands-on practice.
+As a versatile professional, I enjoy exploring new domains and continually expanding my skill set. 
 
 ---
 
-## Education & Certifications
+## Certifications & Courses
 
+* **CCNA** – Cisco Certified Network Associate
 * **SOC Level 1** - TryHackMe
-* **Introduction to Cybersecurity** – Cisco Networking Academy
+* **Introduction to Cybersecurity** – Cisco 
 * **CS50’s Introduction to Programming with Python** – Harvard/edX
 
 ---
 
 ## Hands‑On Projects
 
-### VPS Administration
-
-* Hosting websites and self‑hosted services *(Ubuntu/Debian, Nginx, SSL, SFTP, SSH, Nextcloud, Matrix, seedbox)*
+### SOC Labs
+* SIEM, IDS/IPS, traffic analysis, forensics, threat intelligence, incident response, cyberdefense frameworks.
+  *(ELK, Splunk, Wazuh, Wireshark, Powershell, EZtools, Kape, Volatility3 )* 
 
 ### Pentesting
 
-* WEP key cracking, WPA2 handshake capture, dictionary brute‑force, network analysis
-  *(Aircrack‑ng, Hashcat, Wireshark)*
+* Enumeration, wifi attacks, bruteforcing.
+  *(Nmap, Aircrack‑ng, Hashcat)*
+  
+### Python Automation
 
-### Encryption & Secure Password Management
+* Scraping, content distribution and  arbitrage trading of cryptocurencies.
+  *(REST/WebSocket APIs, CCXT, Selenium, OpenAI API, Discord)*
 
-* Full‑disk and container encryption
-  *(VeraCrypt, LUKS)*
+### Web Server Administration (VPS)
 
-* Secure credential vault (password + challenge‑response)
-  *(KeePass, YubiKey)*
-
-* Two‑factor authentication (TOTP) for online services
-
-### Android Smartphone Flashing
-
-* Installing custom ROMs, unlocking bootloader, flashing recovery, and performing data backup/restore
-  *(LineageOS, GrapheneOS, TWRP, Platform‑tools)*
-
-### Crypto Arbitrage
-
-* Delta‑neutral funding‑rate arbitrage with real‑time monitoring and trade execution via an API
-  *(REST, WebSocket, Python, CCXT)*
-
-### Automated Discord
-
-* Built an automatic bump bot for Discord directories that posts categorized images per channel with embedded advertising messages.
-
-### Image Scraping
-
-* Automated image collection by keyword from Artstation.com to build a dataset of thousands of files and caption generation to train an AI model in the style of **Hearthstone**
-  *(Python, Selenium, OpenAI API, kohya‑ss)*
-
-### Independent 2D Video Game
-
-* Collaborated with a **C++** developer: created graphic assets, 2D animation, sound design, and marketing strategy
-  *(Stable Diffusion, Photoshop, After Effects)*
+* Hosting websites and self‑hosted services.
+  *(Ubuntu/Debian, Nginx, SSL, SFTP, SSH, Nextcloud, Matrix, seedbox)*
 
 ---
 
