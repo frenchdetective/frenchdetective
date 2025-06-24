@@ -1,7 +1,7 @@
 # Corentin Blanchard
 
 📍 Rennes Métropole  
-📧 [blanchard.contact@gmail.com](mailto:blanchard.contact@gmail.com) | 📞 06.17.79.70.31  
+📧 [blanchard.contact@gmail.com](mailto:blanchard.contact@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/blanchardcorentin)
 
 ---
