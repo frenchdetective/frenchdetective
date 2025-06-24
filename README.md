@@ -48,29 +48,9 @@
 
 ---
 
-## 🎯 Atouts Personnels
-
-- Sérieux
-- Courtois
-- Discipliné
-
----
-
 ## 🌍 Langues
 
-- **Français** : Natif
 - **Anglais** : B2 (intermédiaire avancé)
 
 ---
-
-## 📌 Centres d’intérêt
-
-- Cinéma policier
-- Musculation
-- Asie du Sud-Est
-
----
-
-📨 **Référence professionnelle :** Christine Cavarretta – Chargée de projet formation, Simplon.co  
-*[ccavarretta@simplon.co](mailto:ccavarretta@simplon.co)*
 
